@@ -2,7 +2,7 @@ Segundo reto de Alura Latam
 Se practica:
 - Extracción de datos
 - Limpieza de datos
-- Trasnformación de datos
+- Transformación de datos
 - Visualización
 - Análisis de datos
 
