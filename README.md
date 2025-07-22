@@ -41,10 +41,11 @@ Tipo de contrato y formas de pago
 - 57.3% de los clientes que nos dejan, pagan con cheque electrónico.
 
 Observaciones:* Las caracteristicas de plazos cortos y facilidades tecnológicas favorecen la salida rápida de clientes, se sugiere aplicar campañas de fidelización
-Meses_de_contrato.png
+
+![Meses de contrato](Meses_de_contrato.png)
 
 88.6% de los clientes que nos dejan, manienen un contrato mensual.
-Tipo de contrato.png
+![Tipo de contrato](Tipo_de_contrato.png)
 
 Situaciones Técnicas
 - 69.9% de los clientes que nos dejan, tienen fibra óptica.
@@ -57,8 +58,8 @@ Situaciones Técnicas
 
 Observaciones:* Atención al área técnica para fidelizar clientes
 78.2% de los clientes que nos dejan, no cuentan con seguridad adicional online.
-Seguridad adicional.png
+![Seguridad adicional](Seguridad_adicional.png) 
 
 77.4% de los clientes que nos dejan, no tienen soporte técnico rápido.
-SoporteTecnico_Rapido.png
+![SoporteTecnico_Rapido](SoporteTecnico_Rapido.png)
 
